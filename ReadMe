@@ -1,0 +1,30 @@
+1.The tar file contains a directory named "ITWS3_group13project" which contains: 
+	a) 'greenliving' directory  
+	b) group13_itwsProjectFinalReport.pdf  
+	c) Group13facultyform.pdf  
+	d) ReadMe
+
+2.greenliving directory contains 
+	1.jpg  2.jpg  IIIT.jpg  image1.jpg  images  institute.jpg  project.py  security1.jpg  style.css  Thumbs.db  tree.jpg
+
+3.project.py is the file that contains the implementaion of the project. It contains both the front end and back end parts.
+
+4.style.css is the css file that is used to create style sheet for the interface.
+
+5.The name of the database used is "test", in the localhost.
+
+6.The two tables "account" and "courier" are in this database.
+
+
+Instructions for using this software.
+
+1.As this is purely web-interface project, once this code is put in intranet server,students can use this facility to check their couriers. The security will be given this interface to enter courier details.
+2.students login page can be accessed at "http://localhost/greenliving/project.py/login". A link is available to create an account in the same page.
+3.security login page can be accessed at "http://localhost/greenliving/project.py/seclogin". 
+4.The localhost in the urls above will be replaced with some other server address.
+5.mozilla firefox gives best results with this project, as it is implemented on firefox.
+
+The security login information is:
+username : security
+password : iiit123
+
